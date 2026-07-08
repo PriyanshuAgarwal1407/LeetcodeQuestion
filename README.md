@@ -129,3 +129,15 @@ It motivates me to keep learning and sharing my progress!
 <p align="center">
 Happy Coding! 🚀 Keep Learning • Keep Solving • Keep Growing
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0066-plus-one) |
+<!---LeetCode Topics End-->
