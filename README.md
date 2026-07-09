@@ -139,5 +139,6 @@ Happy Coding! 🚀 Keep Learning • Keep Solving • Keep Growing
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
