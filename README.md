@@ -136,9 +136,14 @@ Happy Coding! 🚀 Keep Learning • Keep Solving • Keep Growing
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0066-plus-one) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
