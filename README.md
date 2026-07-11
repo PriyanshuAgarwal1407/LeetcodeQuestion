@@ -143,6 +143,7 @@ Happy Coding! 🚀 Keep Learning • Keep Solving • Keep Growing
 | ------- |
 | [0009-palindrome-number](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,5 +152,6 @@ Happy Coding! 🚀 Keep Learning • Keep Solving • Keep Growing
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
