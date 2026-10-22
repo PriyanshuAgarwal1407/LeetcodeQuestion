@@ -139,6 +139,7 @@ Happy Coding! 🚀 Keep Learning • Keep Solving • Keep Growing
 | [0066-plus-one](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0704-binary-search) |
 | [1672-richest-customer-wealth](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -157,6 +158,7 @@ Happy Coding! 🚀 Keep Learning • Keep Solving • Keep Growing
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
