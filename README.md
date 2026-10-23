@@ -142,6 +142,7 @@ Happy Coding! 🚀 Keep Learning • Keep Solving • Keep Growing
 | [0704-binary-search](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1672-richest-customer-wealth](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/1672-richest-customer-wealth) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
@@ -161,6 +162,7 @@ Happy Coding! 🚀 Keep Learning • Keep Solving • Keep Growing
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -169,4 +171,8 @@ Happy Coding! 🚀 Keep Learning • Keep Solving • Keep Growing
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0852-peak-index-in-a-mountain-array) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
