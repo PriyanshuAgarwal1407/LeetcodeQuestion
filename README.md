@@ -175,4 +175,8 @@ Happy Coding! 🚀 Keep Learning • Keep Solving • Keep Growing
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/PriyanshuAgarwal1407/LeetcodeQuestion/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
